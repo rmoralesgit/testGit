@@ -22,8 +22,8 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colors.background
                 ) {
-                    //coment 12nov22
-                    Greeting("Android Kotlin")
+                    //segundo comentario
+                    Greeting("Android")
                 }
             }
         }
