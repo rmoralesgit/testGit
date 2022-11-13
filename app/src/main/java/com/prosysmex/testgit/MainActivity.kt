@@ -22,8 +22,9 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colors.background
                 ) {
-                    //segundo comentario
+
                     Greeting("Android")
+                    //tercer comentario
                 }
             }
         }
